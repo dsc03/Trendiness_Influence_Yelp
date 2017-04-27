@@ -8,11 +8,11 @@ This project was done with the goal of creating a foundational analysis for iden
 
 The dataset I worked with is from Yelp's most recent Data Challenge, and the analysis in this notebook was done for businesses in the city of Cleveland. Much of the time was spent performing cleaning, filtering, and shaping the original dataset, and to make it easier to follow the basic logic & flow of my work, I have excluded most of that code from the three Jupyter Notebooks. The notebooks should be viewed in the following order:
 
-The **first Jupyter Notebook** includes my **dynamic-time-warping & unsupervised clustering** work, which was used to classify businesses as 'trending' or 'not trending'.
+- **Yelp Time-Series Analysis**: includes my **dynamic-time-warping & unsupervised clustering** work, which was used to classify businesses as 'trending' or 'not trending'.
 
-The **second Jupyter Notebook** includes my **network analysis** for the businesses, the trendy-reviewers, and the individuals they influenced.
+- **Yelp Network Analysis**: includes my **network analysis** for the businesses, the trendy-reviewers, and the individuals they influenced.
 
-The **third Jupyter Notebook** includes a **case-study** of Porco's Lounge & Tiki Room, and the difference that having trendy, influential reviewers can have on a businesses' early growth & presence on Yelp.
+- **The Value of Influencer's Case Study* includes a **case-study** of Porco's Lounge & Tiki Room, and the difference that having trendy, influential reviewers can have on a businesses' early growth & presence on Yelp.
 
 **For an in-depth, less-technical explanation of my work, you can read my Medium post here.
 
