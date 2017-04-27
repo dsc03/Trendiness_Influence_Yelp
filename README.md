@@ -14,7 +14,7 @@ The dataset I worked with is from Yelp's most recent Data Challenge, and the ana
 
 - **The Value of Influencer's Case Study**: case-study of Porco's Lounge & Tiki Room, and the difference that having trendy, influential reviewers can have on a businesses' early growth & presence on Yelp.
 
-**For an in-depth, less-technical explanation of my work, you can read my Medium post here.
+**For an in-depth, less-technical explanation of my work, you can <a href="https://medium.com/@danielsebastian_20091/not-all-users-are-equal-2f64cf9ffbf9">read my Medium post here</a>.
 
 ---
 ## The Value this Analysis Provides:
