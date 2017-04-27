@@ -4,7 +4,7 @@
 ---
 ## Overview:
 
-This project was done with the goal of creating a foundational analysis for identifying the most 'trendy' & influential users on Yelp. One key component that I was particularly excited about with this project was trying to take an incredibly subjective concept of 'trendiness' and try to establish a technical, concrete definition for it that was well supported by the data.
+This project was done with the goal of creating a foundational analysis for identifying the most 'trendy' & influential users on Yelp. One key component that I was particularly excited about with this project was trying to take an incredibly subjective concept of 'trendiness' and try to establish a technical, concrete definition for it that was well supported by the data. Before exploring my work, it's important to understand that a 'trendy' business if it meets the trending criteria we end up defining at some point in it's life, even if its only for a short period of time.
 
 The dataset I worked with is from Yelp's most recent Data Challenge, and the analysis in this notebook was done for businesses in the city of Cleveland. Much of the time was spent performing cleaning, filtering, and shaping the original dataset, and to make it easier to follow the basic logic & flow of my work, I have excluded most of that code from the three Jupyter Notebooks. The notebooks should be viewed in the following order:
 
